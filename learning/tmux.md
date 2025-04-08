@@ -17,7 +17,9 @@
 |command|alias|
 |---:|---:|
 |set-option|set|
+|set-window-option|setw|
 |set-environment|setenv|
+|bind-key|bind|
 
 ## statusline
 日時フォーマットは`strftime()`を使っている
