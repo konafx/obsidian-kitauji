@@ -3,3 +3,9 @@
 
 # Add below lines to exclude OS settings and caches
 .trash/
+
+# private notes
+daily/
+
+# syncthing
+.stfolder/
